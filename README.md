@@ -14,8 +14,11 @@ To view the details of each project, simply click on the project name in the tab
 
 ### Project 1- Front Accounting
 - Test Plan
+  
 - Test Scenarios
+  
 - Test Cases
+  
 - Bug Report
   
 
