@@ -1,4 +1,4 @@
-# Testing-Certification-Projects
+# Manual-Testing-Projects
 All Manual Testing Projects.
 This repository contains a list of all the projects completed during my Testing Certification Course.
 ## Project List
